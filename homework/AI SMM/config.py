@@ -1,0 +1,4 @@
+LLM_PROVIDER = "local"
+
+LM_STUDIO_BASE_URL = "http://localhost:1234/v1"
+LM_STUDIO_MODEL = "qwen/qwen3-8b"
